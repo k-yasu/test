@@ -1,0 +1,11 @@
+sh.exe.stackdump
+/.sass-cache/
+/node_modules/
+.idea
+*.iml
+node_modules/
+.DS_Store
+Thumbs.db
+.svn
+__*
+.ftpass
